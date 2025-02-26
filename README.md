@@ -1,8 +1,8 @@
 # Terraform Greeter Application
 
 A simple Terraform project demonstrating a local relative module with a multilingual greeting
-message. This application takes a name and language preference as input and outputs a greeting
-message.
+message. This application takes a name and language preference as input and outputs a localized
+greeting message.
 
 ## Project Structure
 
