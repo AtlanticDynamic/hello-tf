@@ -6,8 +6,8 @@ message.
 
 ## Project Structure
 
-- `modules/greeter/`: Contains the core greeting functionality
-- `projects/hello/`: Implementation of the greeter module
+- `modules/greeter/`: Core greeting implementation
+- `projects/hello/`: Uses the greeter module
 
 ## Running the Application
 
