@@ -1,7 +1,8 @@
 # Instantiate the module
 module "greeter" {
   source = "../../modules/greeter"
-  name   = "Robert"
+  name   = var.your_name
+  lang   = var.lang
 }
 
 # Define the local-exec provisioner at the projects layer
